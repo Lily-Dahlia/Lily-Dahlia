@@ -17,9 +17,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=FF3333&background=1E1E2E00&vCenter=true&width=500&lines=%3E+print(%22Hello+World!+I+am+Lily.%22)" alt="Typing SVG" />
     </a>
   <p>
-    ¡Hola! Te damos la bienvenida a mi perfil. Soy estudiante de <b>Robótica y Sistemas Informáticos</b>. Me apasiona combinar el desarrollo de software con la integración de hardware y automatización.
-    <br><br>
-    Actualmente enfocada en profundizar mis conocimientos en sistemas de control, la optimización de código y la exploración de nuevas tecnologías tanto lógicas como físicas.
+    ¡Hey there! Welcome to my profile. I'm a <b>Robotics & Computer Systems Engineering</b> student, passionate about blurring the lines between software development, hardware integration, and smart automation.
+<br><br>
+Currently focused on mastering control systems, writing clean/optimized code, and exploring new tech—both in logic and physical hardware.
   </p>
   </div>
 <br clear="right">
